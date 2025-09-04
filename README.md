@@ -9,5 +9,5 @@ python app.py
 http://127.0.0.1:5000/
 
 
-![Customer](https://github.com/AshishpatilRK/Predict_Bank_Credit_Risk_using_South_German_Credit-Data/blob/main/Bank_credit_screenshot.png)
+![Bank Credit Risk](https://github.com/AshishpatilRK/Predict_Bank_Credit_Risk_using_South_German_Credit-Data/blob/main/Bank_credit_screenshot.png)
 
